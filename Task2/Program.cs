@@ -1,17 +1,4 @@
-﻿// Кажись понял, но не идеально...
-
-// Console.WriteLine("Введи х первой точки");
-// string x = Convert.ToInt32.ReadLine();
-// Понял, вроде, но не доделал. Отвлекли...
-
-// Console.WriteLine("Введи y первой точки");
-
-// Console.WriteLine("Введи z первой точки");
-// Console.WriteLine("Введи х второй точки");
-// Console.WriteLine("Введи y второй точки");
-// Console.WriteLine("Введи z второй точки");
-
-int x1 = Coord("x", "A");
+﻿int x1 = Coord("x", "A");
 int y1 = Coord("y", "A");
 int z1 = Coord("z", "A");
 int x2 = Coord("x", "Б");
